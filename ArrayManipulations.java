@@ -50,6 +50,7 @@ public class ArrayManipulations {
 
             }
         }
+        System.out.println("test github");
         return number;// Return the valid input
     }
 
